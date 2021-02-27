@@ -2,7 +2,7 @@
 
 I am a technology lover, fascinated by innovation and software development. More specifically, I am interested in web development, mobile development, software architecture, agile software development.
 
-Right now, I am working as developer and research in a project for Instituto de Medicina Tropical (UFRN), but I also work as a developer on personal projects, using,  for example, Flutter and Spring boot.
+Right now, I am working as developer and research in a project for Instituto de Metrópole Tropical (UFRN), but I also work as a developer on personal projects, using,  for example, Flutter and Spring boot.
 
 ***
 
