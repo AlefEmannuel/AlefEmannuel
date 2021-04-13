@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 I am a technology lover, fascinated by innovation and software development. More specifically, I am interested in web development, mobile development, software architecture, agile software development.
 
